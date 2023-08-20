@@ -9,4 +9,4 @@
  ⏯️ Youtube [Link](https://www.youtube.com/channel/UC0Sa4fMsYNitVeYBYXO7grA)
 
 - [x] D001: 20/08/2023 - Sun  
-DBMS: Files vs DBMS, Tables & Keys, Integrity Constraints, Solved Problems
+DBMS: Files vs DBMS, Tables & Keys, Integrity Constraints, Solved Problems.
