@@ -10,7 +10,3 @@
 
 - [x] D001: 20/08/2023 - Sun  
 DBMS: Files vs DBMS, Tables & Keys, Integrity Constraints, Solved Problems
- ER diagrams, Cardinality of relationships and constructing minimal tables, 
- Weak and Strong Entities, Self-referential Relationships, and Constructing Tables, 
- Solved Problems - ER Models
-
