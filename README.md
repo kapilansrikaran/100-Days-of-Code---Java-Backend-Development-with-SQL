@@ -1,6 +1,6 @@
 ## 100-Days-of-Code Java Backend Development with SQL
 
-### There are two separate branches, Java, DBMS, and Main.
+### There are 3 separate branches, Java, DBMS, and Main.
 1. Java: It contains all about Java technology and best practices used in the industry.
 2. DBMS: The content includes everything from ER diagrams to advanced SQL concepts.
 3. Main: Documentation of Java and DBMS concepts.
